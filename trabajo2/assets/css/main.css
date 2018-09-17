@@ -1,4 +1,4 @@
- /* CSS proyecto N°2 de TAPIN*/
+﻿ /* CSS proyecto N°2 de TAPIN*/
 
 html{
     font-family: 'Nanum Gothic', sans-serif;
@@ -64,16 +64,16 @@ html{
 }
 
 .content1{  
-    max-width: 1500px;
-    max-height: 700px;
+    max-width: 90%;
+    max-height: 80%;
     background-color: white;
     overflow: scroll;
 }
 
 .content2{
     border: solid 1px;    
-    max-width: 1500px;
-    max-height: 800px;
+    max-width: 90%;
+    max-height: 100%;
     width: 100%;
     height: 100%;
     background-color: white;
@@ -84,6 +84,7 @@ html{
 .table{
     width: 100%;
     border-spacing: 0;
+    font-size:13px;
 }
 
 .table td, .table th{ /*aplica para todos los elementos dentro del table */
@@ -113,8 +114,8 @@ html{
 }
 
 .contedorJuego{
-    height: 100%;
-    width: 45%;
+    height: 90%;
+    width: 46%;
     display: inline-block;
 }
 
